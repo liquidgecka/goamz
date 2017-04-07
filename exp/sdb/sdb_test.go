@@ -3,7 +3,7 @@ package sdb_test
 import (
 	"testing"
 
-	"github.com/goamz/goamz/aws"
+	"github.com/liquidgecka/goamz/aws"
 	"github.com/goamz/goamz/exp/sdb"
 	"github.com/goamz/goamz/testutil"
 	. "gopkg.in/check.v1"

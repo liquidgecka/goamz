@@ -6,7 +6,7 @@ import (
 
 	. "gopkg.in/check.v1"
 
-	"github.com/goamz/goamz/aws"
+	"github.com/liquidgecka/goamz/aws"
 	"github.com/goamz/goamz/sts"
 	"github.com/goamz/goamz/testutil"
 )

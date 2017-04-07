@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/goamz/goamz/aws"
+	"github.com/liquidgecka/goamz/aws"
 	"github.com/goamz/goamz/s3"
 	"github.com/goamz/goamz/testutil"
 	. "gopkg.in/check.v1"

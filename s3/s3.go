@@ -29,7 +29,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/goamz/goamz/aws"
+	"github.com/liquidgecka/goamz/aws"
 )
 
 const debug = false
